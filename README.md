@@ -1,3 +1,3 @@
-apt update && apt install git -y && cd && git clone https://github.com/steeldevlol/port && chmod +x port/port && mv port/port /bin && clear && rm -rf ~/port
+apt update && apt install git -y && cd && git clone https://github.com/Yuvraj4416/Ports.git && chmod +x port/port && mv port/port /bin && clear && rm -rf ~/port
 
 then port help
